@@ -141,6 +141,12 @@
   text-decoration: none;
 }
 
+.menu-items ul a.current {
+  color: #fba681;
+  font-weight: 700;
+  text-decoration: underline;
+}
+
 .menu-items hr {
   width: 80%;
   margin: auto;
@@ -170,6 +176,23 @@
 }
 
 /* PROJECTS */
+.project-flex {
+  max-width: 800px;
+  margin: auto;
+}
+
+.pflex-item {
+  flex-basis: 250px;
+}
+
+.pflex-item a {
+  text-decoration: none;
+}
+
+.pflex-item a:hover {
+  text-decoration: underline;
+}
+
 .projects .nav-item {
   margin: 0 5px 0 5px;
 }
@@ -504,8 +527,6 @@
  .sb-nav-fixed #layoutMenunav #layoutMenunav_nav {
     height: 80vh;
  }
-
 }
 
- 
- 
+
