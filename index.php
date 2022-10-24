@@ -51,8 +51,8 @@
                         UX/User Researcher | Digital Skills Trainer  <span>|</span>  Web Librarian
                     </p>
                     <p id="welcome">WELCOME TO MY PROFESSIONAL PAGE</p>
-                    <p id="contact-me">Feel Free To Contact Me If Need Be</p>
-                    <a class="btn button" id="home-button" href="mailto:ofili.dn@gmail.com" target="_blank">Send A Message</a>
+                    
+                    <a class="btn button mt-4" id="home-button" href="mailto:ofili.dn@gmail.com" target="_blank">Send A Message</a>
                 </div>
                 </div>
             </section>
