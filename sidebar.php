@@ -3,7 +3,7 @@
             <div id="layoutSidenav_nav">
                 <nav class="first-blue sb-sidenav accordion" id="sidenavAccordion">
                     <div class="sb-sidenav-menu">
-                        <div class="menu-items mt-4">
+                        <div class="menu-items sidebar mt-4">
                             <a href="img/guest-speaker-nipr-conference.jpg" target="new"><img src="img/profile_photo.png" width="70px" height="70px" alt="Profile Image" title="David Nzoputa Ofili"/></a>
                             <div class="mt-2" id="home-menu-item"><a href="index.php">Home</a></div>
                             <hr>
