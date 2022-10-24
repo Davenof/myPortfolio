@@ -17,7 +17,7 @@
                                 <div class="accordion page-main-text mb-4 mt-5" id="accordionExample">
                                     <!-- CTO DC -->    
                                     <div class="accordion-item">
-                                        <h3 class="accordion-header" id="headingOne"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">Chief Technology Officer | Digital Citizens | March 2018 - Present  <span class="small text-muted">&nbsp;&nbsp;&nbsp;&nbsp;[ Part-Time | Remote | Voluntary]</span></button></h3>
+                                        <h3 class="accordion-header" id="headingOne"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">Chief Technology Officer | Digital Citizens | March 2018 - October 2022  <span class="small text-muted">&nbsp;&nbsp;&nbsp;&nbsp;[ Part-Time | Remote | Voluntary]</span></button></h3>
                                         <div class="accordion-collapse collapse" id="collapseOne" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
                                             <div class="accordion-body">
                                                 <div>
