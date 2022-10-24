@@ -54,7 +54,6 @@
                     
                     <a class="btn button mt-4" id="home-button" href="mailto:ofili.dn@gmail.com" target="_blank">Send A Message</a>
                 </div>
-                </div>
             </section>
             <section class="side-nav" id="layoutMenunav">
                 <div id="layoutMenunav_nav">
